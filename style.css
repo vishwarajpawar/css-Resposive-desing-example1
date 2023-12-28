@@ -75,9 +75,39 @@ footer{
   padding: 10px;
 }
 
+ * {
+   max-width: 100%;
+   box-sizing: border-box;
+ }
+ img {
+   height: auto;
+ }
 
-@media screen and (max-width: 738px) {
-  body{
-    display: none;
+@media screen and (max-width:1020px) {
+  #container {
+    padding: 10px;
   }
+
+  img.floatleft{
+    float:none;
+    margin: 0;
+  }
+ 
+  #topics-list, main{
+    float: none;
+    width: 100%;
+    padding: 10px 0;
+  }
+ nav ul, nav li{
+  display: block;
+ }
+}
+
+@media screen and (max-width: 720px) {
+  #container{
+    padding: 10px
+  }
+ h1{
+  font-size: 20px;
+ } 
 }
