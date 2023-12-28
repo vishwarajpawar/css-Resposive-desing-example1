@@ -1,6 +1,6 @@
-# css-Resposive-desing-example1
-this is an example of adding resposiveness to a non responsive web page using plane CSS
-##site before adding responsiveness
+# css-Resposive-design-example1
+this is an example of adding responsiveness to a non-responsive web page using plane CSS
+## Site before adding responsiveness
 
 ![Alt text](image.png)
 
