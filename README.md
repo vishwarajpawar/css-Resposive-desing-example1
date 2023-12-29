@@ -7,6 +7,6 @@ to make web page resposive take a first step, add meta tag for the viewport
 
 ## Site before adding responsiveness
 
-![Alt text](image.png)
+![Alt text](./assets/image.png)
 
-![Alt text](image-1.png)
+![Alt text](./assets/image-1.png)
